@@ -1,9 +1,7 @@
 ### Hi there 👀, I'm Hazem!
 **Data Engineer & Master's Student in Applied AI @ DIT (Cham)**
 
-I am a Software Engineer transitioning into **Industrial AI** and **Data Engineering**. I specialize in building data pipelines, analyzing manufacturing datasets, and creating actionable dashboards.
-
-I am a **Data Engineer** and transitioning into **Industrial AI** with a strong foundation in Computer Science. I specialize in building robust data pipelines, optimizing SQL infrastructure, analyzing manufacturing dataset, and creating actionable dashboards.
+I am transitioning into **Industrial AI** with a strong foundation in Computer Science. I specialize in building robust data pipelines, optimizing SQL infrastructure, analyzing manufacturing dataset, and creating actionable dashboards.
 
 - 🎓 **Education:** M.Eng. Applied AI for Digital Production Management @ **Deggendorf Institute of Technology**
 - 💼 **Experience:** Previously Data Engineer @ **Energya Industries**
