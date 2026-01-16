@@ -1,4 +1,4 @@
-### Hi there, I'm Hazem! 👋
+### Hi there 👀, I'm Hazem!
 **Data Engineer & Master's Student in Applied AI @ DIT (Cham)**
 
 I am a Software Engineer transitioning into **Industrial AI** and **Data Engineering**. I specialize in building data pipelines, analyzing manufacturing datasets, and creating actionable dashboards.
