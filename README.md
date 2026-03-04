@@ -1,12 +1,11 @@
-### Hi there 👀, I'm Hazem!
 **Data Engineer & Master's Student in Applied AI @ DIT (Cham)**
 
 I am transitioning into **Industrial AI** with a strong foundation in Computer Science. I specialize in building robust data pipelines, optimizing SQL infrastructure, analyzing manufacturing datasets, and creating actionable dashboards.
 
-- 🎓 **Education:** M.Eng. Applied AI for Digital Production Management @ **Deggendorf Institute of Technology**
-- 💼 **Experience:** Previously Data Engineer @ **Energya Industries**
-- 🔭 **Current Focus:** ELT Pipelines, Data Modeling, and Industrial IoT
-- 📍 **Location:** Cham, Germany 🇩🇪
+-  **Education:** M.Eng. Applied AI for Digital Production Management @ **Deggendorf Institute of Technology**
+-  **Experience:** Previously Data Engineer @ **Energya Industries**
+-  **Current Focus:** ELT Pipelines, Data Modeling, and Industrial IoT
+-  **Location:** Cham, Germany 
 
 ---
 
